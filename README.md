@@ -1,6 +1,7 @@
 # SQA_wppool
 
 pip install -r requirements.txt
+
 python -m unittest tests/test_dark_mode.py
 
 
